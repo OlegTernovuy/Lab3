@@ -14,3 +14,4 @@
 /Users/olegternovij/Documents/React/Lab3/Lab3/Lab3/obj/Debug/netstandard2.0/ref/Lab3.dll
 /Users/olegternovij/Documents/React/Lab3/Lab3/Lab3/obj/Debug/netstandard2.0/Lab3.pdb
 /Users/olegternovij/Documents/React/Lab3/Lab3/Lab3/obj/Debug/netstandard2.0/Lab3.csproj.AssemblyReference.cache
+/Users/olegternovij/Documents/React/Lab3/Lab3/Lab3/obj/Debug/netstandard2.0/NoteEntryPage.xaml.g.cs

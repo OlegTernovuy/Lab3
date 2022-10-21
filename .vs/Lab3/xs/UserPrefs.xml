@@ -1,26 +1,29 @@
 ﻿<Properties StartupConfiguration="{74D25CD8-4714-42E5-9E68-742AE7018EFC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/16.0.0.72/lib/msbuild/iOS/Xamarin.Shared.targets">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lab3.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.34094A98-B4BC-48F6-8449-B3A4B8A2B183" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.34094A98-B4BC-48F6-8449-B3A4B8A2B183" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3/Lab3/MainPage.xaml.cs">
     <Files>
-      <File FileName="Lab3/Lab3/MainPage.xaml" Line="24" Column="1" />
+      <File FileName="Lab3/Lab3/NoteEntryPage.xaml" Line="20" Column="15" />
+      <File FileName="Lab3/Lab3/NoteEntryPage.xaml.cs" Line="21" Column="10" />
+      <File FileName="Lab3/Lab3/MainPage.xaml" Line="1" Column="1" />
       <File FileName="Lab3/Lab3/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="Lab3/Lab3/AboutPage.xaml" Line="1" Column="1" />
-      <File FileName="Lab3/Lab3/AboutPage.xaml.cs" Line="3" Column="21" />
-      <File FileName="Lab3/Lab3/App.xaml" Line="5" Column="1" />
-      <File FileName="Lab3/Lab3/App.xaml.cs" Line="13" Column="39" />
-      <File FileName="Lab3/Lab3/AppShell.xaml" Line="1" Column="1" />
-      <File FileName="Lab3/Lab3/AppShell.xaml.cs" Line="3" Column="12" />
-      <File FileName="Lab3/Lab3/AssemblyInfo.cs" Line="1" Column="1" />
-      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" Line="1699" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lab3" expanded="True">
             <Node name="Lab3" expanded="True">
-              <Node name="AboutPage.xaml" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="AppShell.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="NoteEntryPage.xaml" expanded="True" />
             </Node>
             <Node name="Lab3.iOS" expanded="True" />
           </Node>
@@ -31,12 +34,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Lab3.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D009CA7C-9972-4B7B-9A01-4C8FAC41A104" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D009CA7C-9972-4B7B-9A01-4C8FAC41A104" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using Lab3;
+using Xamarin.Forms;
 
 namespace Lab3
 {
@@ -7,6 +8,7 @@ namespace Lab3
         public AppShell()
         {
             InitializeComponent();
+            Routing.RegisterRoute(nameof(NoteEntryPage), typeof(NoteEntryPage));
         }
     }
 }
